@@ -1,10 +1,8 @@
 # Svelte graphing
 
-Experiments with SVGs etc
-
-This set of svelte components are experiments in Svelte, SVG and visualisation algorythms
+Svelte, SVG and visualisation algorithms
 
 # TODOs:
 
-* Suitable beizer based smoothing algorythm for decrete points on a graph
+* Suitable beizer based smoothing algorithm for discrete points on a graph (x & y)
 
